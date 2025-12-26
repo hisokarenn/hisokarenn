@@ -10,6 +10,7 @@
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![C](https://custom-icon-badges.demolab.com/badge/-C-00599C?style=for-the-badge&logo=c-programming&logoColor=white)](https://en.cppreference.com/w/c)
 [![Java](https://custom-icon-badges.demolab.com/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![FlutterFlow](https://custom-icon-badges.demolab.com/badge/-FlutterFlow-4B39EF?style=for-the-badge&logo=flutterflow&logoColor=white)](https://flutterflow.io/)
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
