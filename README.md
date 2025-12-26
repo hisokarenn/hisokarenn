@@ -1,6 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=f17ea1&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem-Vindo!)](https://git.io/typing-svg)
+
 # 👋🏻 ⭐ Olá!
 
 <p align="justify">Me chamo Karen Vitória Rodrigues Pereira, tenho 19 anos e sou natural do estado do Amazonas. Atualmente faço graduação em Engenharia de Software na Universidade Federal do Amazonas (ICET-UFAM). Possuo conhecimentos a respeito de desenvolvimento web/mobile, organização de dados, banco de dados e lógica de programação, também participo ativamente de projetos voltados para tecnologia dentro da Universidade. É bem legal👍🏻
+  
+![h](https://github.com/user-attachments/assets/5aba26a3-2d4d-47f7-9d24-69a65c63d6c0)
+
+![34920](https://github.com/user-attachments/assets/0137e489-3462-4115-b01d-63598ba8282f)
+
 
 ---
 
@@ -15,3 +22,22 @@
 [![FlutterFlow](https://custom-icon-badges.demolab.com/badge/-FlutterFlow-4B39EF?style=for-the-badge&logo=flutterflow&logoColor=white)](https://flutterflow.io/)
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Firebase](https://custom-icon-badges.demolab.com/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+---
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
