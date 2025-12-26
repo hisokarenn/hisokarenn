@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=f17ea1&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=47ebe4&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
-# 👋🏻 ⭐ Olá!
+# 👋🏻 Olá!
 
 <p align="justify">Me chamo Karen Vitória Rodrigues Pereira, tenho 19 anos e sou natural do estado do Amazonas. Atualmente faço graduação em Engenharia de Software na Universidade Federal do Amazonas (ICET-UFAM). Possuo conhecimentos a respeito de desenvolvimento web/mobile, organização de dados, banco de dados e lógica de programação, também participo ativamente de projetos voltados para tecnologia dentro da Universidade. É bem legal👍🏻
 
