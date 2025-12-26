@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=18d0d5&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=ee69d4&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem-Vindo!)](https://git.io/typing-svg)
+
+<p align="center"> <img src="https://github.com/hisokarenn/hisokarenn/blob/6df9e6c011864470fc94c324afb70d30d1ec4111/156506.gif" alt="" width="500" /></p>
 
 # 👋🏻 Olá!
 
