@@ -3,11 +3,6 @@
 # 👋🏻 ⭐ Olá!
 
 <p align="justify">Me chamo Karen Vitória Rodrigues Pereira, tenho 19 anos e sou natural do estado do Amazonas. Atualmente faço graduação em Engenharia de Software na Universidade Federal do Amazonas (ICET-UFAM). Possuo conhecimentos a respeito de desenvolvimento web/mobile, organização de dados, banco de dados e lógica de programação, também participo ativamente de projetos voltados para tecnologia dentro da Universidade. É bem legal👍🏻
-  
-![h](https://github.com/user-attachments/assets/5aba26a3-2d4d-47f7-9d24-69a65c63d6c0)
-
-![34920](https://github.com/user-attachments/assets/0137e489-3462-4115-b01d-63598ba8282f)
-
 
 ---
 
@@ -25,19 +20,10 @@
 
 ---
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hisokarenn/hisokarenn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hisokarenn/hisokarenn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hisokarenn/hisokarenn/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
