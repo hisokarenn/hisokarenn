@@ -18,7 +18,9 @@
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Firebase](https://custom-icon-badges.demolab.com/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
----
+<br>
+<br>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hisokarenn/hisokarenn/output/pacman-contribution-graph-dark.svg">
