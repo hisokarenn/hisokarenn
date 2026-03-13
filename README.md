@@ -4,7 +4,7 @@
 
 # 👋🏻 Olá!
 
-<p align="justify">Me chamo Karen Vitória Rodrigues Pereira, tenho 19 anos e sou natural do estado do Amazonas. Atualmente faço graduação em Engenharia de Software na Universidade Federal do Amazonas (ICET-UFAM). Possuo conhecimentos a respeito de desenvolvimento web/mobile e banco de dados, também participo ativamente de projetos voltados para tecnologia dentro da Universidade.
+<p align="justify">Me chamo Karen Vitória Rodrigues Pereira, tenho 19 anos e sou natural do estado do Amazonas. Atualmente faço graduação em Engenharia de Software na Universidade Federal do Amazonas (ICET-UFAM), e participo ativamente de estudos e projetos voltados para tecnologia dentro e fora da Universidade.
 
 ---
 
