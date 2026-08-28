@@ -6,6 +6,7 @@
 
 <p align="justify">Me chamo Karen Vitória Rodrigues Pereira, tenho 20 anos e sou natural do estado do Amazonas. Atualmente faço graduação em Engenharia de Software na Universidade Federal do Amazonas (ICET-UFAM), e participo ativamente de estudos e projetos voltados para tecnologia dentro e fora da Universidade.
 
+<!--
 ### 💻 Linguagens e Tecnologias
 
 [![Python](https://custom-icon-badges.demolab.com/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -18,7 +19,7 @@
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Firebase](https://custom-icon-badges.demolab.com/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
----
+-->
 
-### 🚹 Mais Informações
+### 🚹 Informações
 - [Lattes](http://lattes.cnpq.br/7304236870875673)
